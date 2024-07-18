@@ -1,1 +1,1 @@
-Simple Terraform playbook to bootstrat Palo Alto VM with user_data string
+Simple Terraform playbook to bootstrap Palo Alto VM with user_data string
